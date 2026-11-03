@@ -1,9 +1,14 @@
-# Dev Kumar — Identity & Access Platform Portfolio
+# Dev Kumar — Oracle IAM platform engineering portfolio
 
-A responsive engineering portfolio featuring an animated identity platform topology, authorization story, full experience history, and project links.
+A responsive, static portfolio for the Oracle Principal Platform Software Engineer (IAM) application. The page uses a generated identity-control-plane hero image, animated focus text, an interactive delegated-authorization diagram, measurable resume outcomes, full work history, and the supplied project links.
 
-Open `index.html` directly or serve this folder with a static web server. GitHub Pages publishes the repository root with the included Actions workflow.
+## Contents
 
-- `index.html` — portfolio content and identity authorization flow diagram
-- `styles.css` — responsive design and animation
-- `script.js` — animated identity topology background, rotating focus text, reveals, and project search
+- `index.html` — 15 experience bullets, 23 supplied project cards, profile links, academic work, and education
+- `styles.css` — responsive layout, visual system, motion, reduced-motion behavior
+- `script.js` — rotating focus text, interactive identity flow, project filters, and scroll reveals
+- `identity-control-plane.jpg` — generated hero background illustration
+- `ROLE_RESEARCH.md` — Oracle job and company research with source links
+- `.github/workflows/pages.yml` — GitHub Pages deployment workflow
+
+All 23 projects have a `SourceCode` link. `Technical Demo` appears only for the four projects with supplied demos: TradeSentinel, AskMyStore, Strangers, and Oxide-HV. The IEEE publication, notebook, and certificate are separately linked. No LinkedIn link or footer is included.
